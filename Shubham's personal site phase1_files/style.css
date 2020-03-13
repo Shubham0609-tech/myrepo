@@ -1,0 +1,87 @@
+body{
+  /*text-align: center;*/
+  margin: 0px;
+
+}
+/*div {
+  background-color: #e4f9f5;
+  height:800px;}*/
+
+
+p{
+/*  display: inline-block;*/
+  font-family: 'Merriweather Sans', sans-serif;
+  text-align: center;
+}
+hr {
+  background-color:#e4f9f5;
+  border-style: none;
+  height:1px;
+  width:40px;
+  border-top: 3px dotted grey;
+}
+h1 {
+  color:#1eb2a6;
+  /*display: inline-block;*/
+  font-family: 'Sacramento',serif;
+  text-align: center;
+}
+h2 {
+  color:#1eb2a6;
+  font-family: 'Merriweather Sans', sans-serif;
+  text-align: center;
+}
+h3 {
+  color:#1eb2a6;
+  font-family: 'Merriweather Sans', sans-serif;
+  text-align: center;
+}
+a{
+  text-align: center;
+}
+.mount{
+  bottom:500px;
+  left:20px;
+  position: relative;
+  width:20px;
+  height:300px;
+}
+.cloud{
+  position: relative;
+  left:1100px;
+  top:200px;
+}
+.name{
+  position:relative;
+  left:0px;
+}
+.para{
+  position:relative;
+  left:0px;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+.c{
+  position: relative;
+  bottom: 500px;
+  left:300px;
+}
+.first{
+  background-color: #e4f9f5;
+  height:800px;
+}
+.profile{
+  position:relative;
+  bottom:250px;
+}
+.skills{
+  position:relative;
+  bottom:250px;
+}
+.contact-me{
+  position:relative;
+  bottom:250px;
+}
+.bottom-container{
+  position:relative;
+  bottom:250px;
+}
